@@ -14,4 +14,7 @@ cpy[i]=src[i];
 spy[len]='\0';
 return spy;
 }
+/**
+本地编辑
 Remote edit B19032004彭合木子
+**/
