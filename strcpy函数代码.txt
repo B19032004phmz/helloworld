@@ -14,3 +14,4 @@ cpy[i]=src[i];
 spy[len]='\0';
 return spy;
 }
+Remote edit B19032004彭合木子
